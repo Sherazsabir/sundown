@@ -629,7 +629,7 @@ body {
     height: 100vh;
     z-index: 105;
     position: fixed;
-    top: -100%; 
+    top: -120%; 
     transition: top 0.3s ease-in-out; 
   }
 
