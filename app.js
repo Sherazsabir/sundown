@@ -74,7 +74,7 @@ function menufu(){
 });
 
 crossbtn.addEventListener("click", () => {
-menu.style.top = "-100%";
+menu.style.top = "-120%";
 
 });
 }
